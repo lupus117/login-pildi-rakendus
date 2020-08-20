@@ -1,0 +1,16 @@
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\bin\Debug\netstandard2.0\login_pildirakendus.deps.json
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\bin\Debug\netstandard2.0\login_pildirakendus.dll
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\login_pildirakendus.csprojAssemblyReference.cache
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\LogInPage.xaml.g.cs
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\login_pildirakendus.AssemblyInfoInputs.cache
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\login_pildirakendus.AssemblyInfo.cs
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\login_pildirakendus.csproj.CoreCompileInputs.cache
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\bin\Debug\netstandard2.0\ref\login_pildirakendus.dll
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\bin\Debug\netstandard2.0\login_pildirakendus.pdb
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\XamlC.stamp
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\login_pildirakendus.dll
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\ref\login_pildirakendus.dll
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\login_pildirakendus.pdb
+D:\skool\Priit_m\login-pildi-rakendus\login_pildirakendus\login_pildirakendus\login_pildirakendus\obj\Debug\netstandard2.0\TabsPage.xaml.g.cs
