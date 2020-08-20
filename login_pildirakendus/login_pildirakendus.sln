@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login_pildirakendus.UWP", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login_pildirakendus.Android", "login_pildirakendus\login_pildirakendus.Android\login_pildirakendus.Android.csproj", "{1584EEDF-1327-4318-969A-00799CF94224}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login_pildirakendus", "login_pildirakendus\login_pildirakendus\login_pildirakendus.csproj", "{F8557D53-9E35-47E0-A4E5-BA123AD766BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "login_pildirakendus", "login_pildirakendus\login_pildirakendus\login_pildirakendus.csproj", "{F8557D53-9E35-47E0-A4E5-BA123AD766BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

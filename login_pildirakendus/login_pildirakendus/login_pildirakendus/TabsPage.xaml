@@ -7,5 +7,6 @@
              x:Class="login_pildirakendus.TabsPage"
              xmlns:local1="clr-namespace:login_pildirakendus">
     <!--Pages can be added as references or inline-->
-    <local1:MainPage Title="Posts" />
+    <local1:PostsTab Title="Posts" />
+    <local1:UserDetailsPage Title="User ☼"  />
 </TabbedPage>
